@@ -1,0 +1,1 @@
+# escala_de_cores_responsivas
